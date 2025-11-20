@@ -112,6 +112,7 @@ public class View {
             }
             System.out.println("Opción inválida, intente de nuevo:");
         }
+        scanner.nextLine();
         return opcion;
     }
 
@@ -141,6 +142,7 @@ public class View {
 
     public String objetivoBusquedaNombre(){
         System.out.println("Ingrese el nombre a buscar: ");
-        return scanner.nextLine();
+        String objetivo = scanner.nextLine();
+        return objetivo;
     }
 }

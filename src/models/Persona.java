@@ -29,7 +29,7 @@ public class Persona {
 
     @Override
     public String toString() {
-        return "Persona [name=" + name + ", age=" + age + "]";
+        return "[name = " + name + ", age = " + age + "]";
     }
 
     

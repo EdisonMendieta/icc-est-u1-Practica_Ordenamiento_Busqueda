@@ -8,7 +8,7 @@ public class SortingMethods {
 
     public void sortByNameWithBubble(List<Persona> personas){
 
-        for (int i = 1; i < personas.size() - 1; i++) {
+        for (int i = 0; i < personas.size() - 1; i++) {
             boolean swapped = false;
             for (int j = 0; j < personas.size() - i - 1; j++) {
                 if (personas.get(j).getName().compareTo(personas.get(j +1).getName()) > 0) {
