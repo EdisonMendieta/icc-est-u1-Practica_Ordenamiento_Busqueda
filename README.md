@@ -1,18 +1,26 @@
-## Getting Started
+## PRACTICA DE ORDENAMIENTO Y BUSQUEDA
+.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## MENU
 
-## Folder Structure
+![alt text](asset/menu.png)
 
-The workspace contains two folders by default, where:
+## OPCION 1 Agregar persona.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![alt text](<asset/Agregar una persona.png>)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## OPCION 2 Agregar personas.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+![alt text](<asset/Ingresar personas.png>)
 
-## Dependency Management
+## OPCION 3 Listar personas.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![alt text](<asset/Listar Personas.png>)
+
+## OPCION 4 Metodos de ordenamiento.
+
+![alt text](<asset/menu de metodos de ordenamiento.png>)
+
+## OPCION 5 Busqueda por nombre o edad.
+
+![alt text](<asset/Busqueda por nombre.png>)
